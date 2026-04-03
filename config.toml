@@ -1,7 +1,6 @@
 baseURL = "https://cist2026.github.io/"
 languageCode = "en-us"
 title = "CIST 2026"
-theme = ""
 
 [params]
   description = "Conference on Information Systems and Technology 2026"
