@@ -1,0 +1,42 @@
+baseURL = "https://cist2026.github.io/"
+languageCode = "en-us"
+title = "CIST 2026"
+theme = ""
+
+[params]
+  description = "Conference on Information Systems and Technology 2026"
+  venue = "Hilton San Francisco"
+  venueAddress = "333 O'Farrell Street, San Francisco, CA 94102"
+  conferenceDates = "October 31 – November 1, 2026"
+  city = "San Francisco, CA"
+  submissionPortal = "#"  # Update with Paperfox URL when available
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Call for Papers"
+    url = "/cfp/"
+    weight = 2
+  [[menu.main]]
+    name = "Program"
+    url = "/program/"
+    weight = 3
+  [[menu.main]]
+    name = "Registration"
+    url = "/registration/"
+    weight = 4
+  [[menu.main]]
+    name = "ISS Events"
+    url = "/iss-events/"
+    weight = 5
+  [[menu.main]]
+    name = "Transportation"
+    url = "/transportation/"
+    weight = 6
+  [[menu.main]]
+    name = "Committee"
+    url = "/committee/"
+    weight = 7
