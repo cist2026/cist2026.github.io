@@ -57,13 +57,13 @@ subtitle: "CIST 2026 Organizing Committee"
 <div class="committee-member">
   <div class="member-photo"><img src="/images/committee/chenshuo-sun.jpg" alt="Chenshuo Sun"></div>
   <h3>Chenshuo Sun</h3>
-  <p class="affiliation">Renmin University of China</p>
+  <p class="affiliation">National University of Singapore</p>
   <p class="email"><a href="mailto:csun@stern.nyu.edu">csun@stern.nyu.edu</a></p>
 </div>
 
 <div class="committee-member">
   <div class="member-photo"><img src="/images/committee/chris-westland.jpg" alt="Chris Westland"></div>
-  <h3>Chris Westland</h3>
+  <h3>James Chris Westland</h3>
   <p class="affiliation">University of Illinois Chicago</p>
   <p class="email"><a href="mailto:westland@uic.edu">westland@uic.edu</a></p>
 </div>
