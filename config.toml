@@ -39,3 +39,8 @@ title = "CIST 2026"
     name = "Committee"
     url = "/committee/"
     weight = 7
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
