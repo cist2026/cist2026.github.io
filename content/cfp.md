@@ -39,7 +39,3 @@ Only papers that follow the specific guidelines below will be considered for acc
 - If your paper has already been accepted or conditionally accepted for publication, please refrain from submitting it to CIST 2026. In the spirit of promoting original work, we ask that authors submit new work, and discourage work that has recently been presented at major IS conferences and workshops.
 - To promote diversity, we strongly recommend that no individual appears as an author on more than **three** papers submitted to CIST 2026. 
 - We recommend that no individual serves as the presenting author for more than **two** papers submitted to CIST 2026. 
-
-## Questions
-
-For questions about submissions, please contact the organizing committee at <!-- TODO: add contact email -->.
