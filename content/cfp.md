@@ -5,7 +5,7 @@ subtitle: "CIST 2026 — San Francisco, CA"
 
 ## Overview
 
-The Conference on Information Systems and Technology (CIST) 2026 invites original research submissions in all areas of Information Systems and related fields, especially those that seek to address issues related to the conference theme: "Building and Governing the AI Ecosystem".
+The Conference on Information Systems and Technology (CIST) 2026 invites original research submissions in all areas of Information Systems and related fields, especially those that seek to address issues related to the conference theme: "Agentic AI in Action: Building and Governing Intelligent Ecosystems".
 
 We welcome and encourage contributions employing a variety of methodological, theoretical, and data approaches, and hope that a broad set of the Information Systems community will be represented at CIST 2026.
 
