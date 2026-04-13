@@ -9,6 +9,8 @@ The Conference on Information Systems and Technology (CIST) 2026 invites origina
 
 We welcome and encourage contributions employing a variety of methodological, theoretical, and data approaches, and hope that a broad set of the Information Systems community will be represented at CIST 2026.
 
+Join us for an in-person conference experience in the vibrant city of San Francisco. Paper submissions open on May 15, 2025. For updates on registration, submission guidelines, event logistics, and important dates, please visit our [official website](https://cist2026.github.io): https://cist2026.github.io
+
 ## Important Dates
 
 | Milestone | Date |
