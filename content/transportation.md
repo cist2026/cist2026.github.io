@@ -32,6 +32,6 @@ Approximately 30–50 minutes depending on traffic.
 
 <!-- TODO: Add hotel parking rates and nearby garage info -->
 
-## Hotel Accommodations
+## Hotel Accommodations: Booking link with CIST discounted rate available soon
 
 <!-- TODO: Add conference hotel block rate and booking link when available -->
