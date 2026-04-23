@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers"
-subtitle: "CIST 2026 — San Francisco, CA"
+subtitle: "CIST 2026 — October 31 – November 1, 2026, Hilton San Francisco Union Square, San Francisco, CA"
 ---
 
 ## Overview
