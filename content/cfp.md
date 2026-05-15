@@ -3,6 +3,10 @@ title: "Call for Papers"
 subtitle: "CIST 2026 — Oct 31–Nov 1, 2026, Hilton San Francisco Union Square, San Francisco, CA"
 ---
 
+## Submission Portal
+
+Papers should be submitted via Paperfox: https://www.paperfox.ai/conference/cist2026/submission
+
 ## Overview
 
 The Conference on Information Systems and Technology (CIST) 2026 invites original research submissions in all areas of Information Systems and related fields, especially those that seek to address issues related to the conference theme: "Agentic AI in Action: Building and Governing Intelligent Ecosystems".
@@ -11,7 +15,7 @@ As AI systems become increasingly autonomous, adaptive, and embedded in organiza
 
 We welcome and encourage contributions employing a variety of methodological and theoretical approaches, and hope that a broad set of the Information Systems community will be represented at CIST 2026.
 
-Join us for an in-person conference experience in the vibrant city of San Francisco. Paper submissions open on May 15, 2026. For updates on registration, submission guidelines, event logistics, and important dates, please visit our [official website](https://cist2026.github.io): https://cist2026.github.io
+Join us for an in-person conference experience in the vibrant city of San Francisco. Paper submissions open on May 15, 2026. For updates on registration, submission guidelines, event logistics, and important dates, please visit the CIST 2026 website: https://cist2026.github.io
 
 ## Important Dates
 
@@ -23,10 +27,6 @@ Join us for an in-person conference experience in the vibrant city of San Franci
 | Early registration deadline | September 12, 2026 |
 | Speaker registration deadline | September 12, 2026 |
 | Conference | October 31 – November 1, 2026 |
-
-## Submission Portal
-
-Papers should be submitted via [Paperfox](https://www.paperfox.ai/conference/cist2026/submission): https://www.paperfox.ai/conference/cist2026/submission
 
 ## Submission Guidelines
 
