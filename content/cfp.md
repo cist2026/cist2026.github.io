@@ -22,7 +22,7 @@ Join us for an in-person conference experience in the vibrant city of San Franci
 | Milestone | Date |
 |-----------|------|
 | Submission system opens | May 15, 2026 |
-| **Submission deadline** | **June 12, 2026 at 11:59 pm PT** |
+| **Submission deadline** | **~~June 12, 2026~~ at 11:59 pm PT (Extended to June 21, 2026)** |
 | Notification of acceptance | August 21, 2026 |
 | Early registration deadline | September 12, 2026 |
 | Speaker registration deadline | September 12, 2026 |
