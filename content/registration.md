@@ -9,6 +9,12 @@ Conference registration will open in Summer 2026.
 
 <!-- TODO: Add registration link when available -->
 
+## Hotel: Hilton San Francisco
+
+Booking link with CIST discounted rate: https://book.passkey.com/e/51273842
+
+<!-- TODO: Add registration link when available -->
+
 ## Key Registration Dates
 
 | Milestone | Date |
