@@ -34,5 +34,5 @@ If you would like to request a letter for visa application purposes, please send
 
 Credit card charges will show on your statement from IUBL-Conference Web.
 
-Cancellation requests must be submitted in writing via email to iuconfs@iu.edu no later than October 11, 2025 to be eligible for a refund. Refunds will be made in the same form that you submitted your registration. No refunds will be issued after October 11, but you may substitute another delegate.
+Cancellation requests must be submitted in writing via email to iuconfs@iu.edu no later than October 17, 2026 to be eligible for a refund. Refunds will be made in the same form that you submitted your registration. No refunds will be issued after October 17, but you may substitute another delegate.
 
