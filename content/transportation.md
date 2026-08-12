@@ -32,7 +32,7 @@ Approximately 30–50 minutes depending on traffic.
 
 <!-- TODO: Add hotel parking rates and nearby garage info -->
 
-## Hotel Accommodations: Hilton San Francisco · 333 O'Farrell Street
+## Hotel Accommodations: Hilton San Francisco @ 333 O'Farrell Street
 Booking link with CIST discounted rate: https://book.passkey.com/e/51273842 
 
 <!-- TODO: Add conference hotel block rate and booking link when available -->
