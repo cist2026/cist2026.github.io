@@ -20,7 +20,7 @@ Presenter registration deadline: September 12, 2026
 | Time | ISS Member | Non-ISS Member |
 |-----------|------|------|
 | Early (through September 12) | $550 | $650
-| Regular (September 12 - October 23 | $650 | $700
+| Regular (September 12 - October 23) | $650 | $700
 | Onsite (beginning October 24) | $750 | $800
 
 
