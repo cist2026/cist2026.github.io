@@ -3,15 +3,15 @@ title: "Registration"
 subtitle: "Conference registration information"
 ---
 
-## ISS Membership
+## INFORMS ISS Membership
 
-INFORMS Information Systems Society (ISS) Membership: https://connect.informs.org/iss/aboutiss/membership
+[INFORMS Information Systems Society (ISS) Membership](https://connect.informs.org/iss/aboutiss/membership)
 
 ## Registration
 
 Registration for CIST 2026 is now open.
 
-Registration Link: https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?aat=4f4b345a30452b4174775661777474684c775234494d6d307363535964715945576770776274344d584e733d
+[Click Here to Register for CIST 2026](https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?aat=4f4b345a30452b4174775661777474684c775234494d6d307363535964715945576770776274344d584e733d)
 
 Presenter registration deadline: September 12, 2026
 
