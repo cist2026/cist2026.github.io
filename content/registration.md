@@ -34,7 +34,7 @@ Presenter registration deadline: September 12, 2026
 
 ## Conference Hotel: Hilton San Francisco Union Square
 
-Booking link with CIST discounted rate: https://book.passkey.com/e/51273842
+[Click Here to Book with CIST Discounted Rate](https://book.passkey.com/e/51273842)
 
 ## Official Invitation Letter for Visa
 
