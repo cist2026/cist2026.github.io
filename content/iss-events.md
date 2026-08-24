@@ -43,6 +43,67 @@ Please contact Ling Xue at [ling.xue@uga.edu](mailto:ling.xue@uga.edu) with any 
 
 ---
 
-## ISS-ISR Paper Development Workshop for Early Career Scholars
+## Third INFORMS ISS Information Systems Research Paper Development Workshop for Early Career Scholars
 
-Details about the paper development workshop will be announced. This workshop is typically held the day before the conference and provides early-career scholars with mentorship from members of the ISR Editorial Board.
+**Date:** Friday afternoon, October 30, 2026 (in conjunction with CIST 2026)
+
+**Location:** San Francisco, CA
+
+Greetings, IS community, particularly early-career scholars!
+
+This year, we are once again planning "INFORMS ISS–ISR Paper Development Workshop for Early Career Scholars." The workshop will be held in the afternoon of Friday, October 30, 2026, in San Francisco, in conjunction with CIST 2026.
+
+Chad Ho from George Washington University will co-organize the workshop with me.
+
+As you may know, we have held similar workshops at ECIS and PACIS, as well as at CIST in the last two years, and I believe they were both fun and quite effective.
+
+Submissions can be on any topic of interest to Information Systems scholars, and may use any research methodology (qualitative, quantitative, design, multi-method, etc.).
+
+The selected papers will be mentored by at least two members of the ISR Editorial Board. Please note that the workshop is not associated with any publication. The goal is to provide authors with meaningful feedback that can help enhance the paper's quality as it is prepared for submission to a suitable journal. Authors do not have an obligation to submit their paper to ISR simply because it has been accepted and discussed at this workshop. Also, please note that participation in the workshop does not imply favorable consideration or outcome at ISR.
+
+The length of the papers submitted to the workshop should not exceed 24 pages (double-spaced, 12 font) – this includes everything, including references. The first page (not counted in the 24 pages) must have the title of the paper, the name(s), affiliation(s), and email address(es) of all the author(s), and 3-5 keywords.
+
+### How to Submit
+
+Please send your paper as an attachment (word or pdf format) as per the following instructions:
+
+- **To:** [eic-isr@virginia.edu](mailto:eic-isr@virginia.edu)
+- **Cc:** [rgc2xs@virginia.edu](mailto:rgc2xs@virginia.edu)
+- **Subject:** "Submission to INFORMS-ISS ISR Paper Development Workshop 2026"
+
+Please include the title of the manuscript and the name of the author seeking to attend the workshop (with email address) in the body of the email.
+
+Submissions should be sent by email from **August 31 through September 7, 2026**. Papers submitted before August 31 and after September 7 (midnight Pacific Time) will not be considered. We will try to notify authors of the decisions by **September 25**.
+
+### Mentors
+
+We now have commitments from the following members of the ISR Editorial Board, with additional mentors expected to join as the program is finalized. What a group of mentors!
+
+**Senior Editors:**
+
+- Bardhan, Indranil
+- Cheng, Hsing (Kenny)
+- Goh, Khim Yong
+- Jiang, Zhengrui
+- Mehra, Amit
+- Sia, Choon Ling
+
+**Associate Editors:**
+
+- Adjerid, Idris
+- Chan, Jason
+- Chatterjee, Sutirtha
+- He, Shu
+- Ho, Chad
+- Khern-am-nuai, Warut
+- Kwon, Eric
+- Li, Jingjing
+- Pang, Min-Seok
+- Ramaprasad, Jui
+- Sanyal, Pallab
+- Yang, Yi
+
+While this workshop is primarily intended for early-career scholars, we may make a few exceptions based on special circumstances. Please clearly mention your special circumstances in your cover note. We look forward to receiving your submissions.
+
+Suprateek Sarker<br>
+Editor-in-Chief, ISR
