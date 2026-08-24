@@ -3,7 +3,23 @@ title: "ISS Events"
 subtitle: "Workshops and events in conjunction with CIST 2026"
 ---
 
-## Third INFORMS Information Systems Society Doctoral Consortium
+<div class="tab-bar" role="tablist" aria-label="ISS Events">
+  <button class="tab-btn active" role="tab" aria-selected="true" aria-controls="consortium" data-tab="consortium">Doctoral Consortium</button>
+  <button class="tab-btn" role="tab" aria-selected="false" aria-controls="workshop" data-tab="workshop">ISR Paper Development Workshop</button>
+</div>
+
+<div class="tab-panel active" id="consortium" role="tabpanel">
+
+<nav class="tab-toc" aria-label="On this page">
+<strong>On this page</strong>
+<ul>
+<li><a href="#dc-overview">Overview</a></li>
+<li><a href="#dc-requirements">Application Requirements</a></li>
+<li><a href="#dc-chairs">Doctoral Consortium Co-Chairs</a></li>
+</ul>
+</nav>
+
+## Third INFORMS Information Systems Society Doctoral Consortium {#dc-overview}
 
 **Date:** Friday afternoon, October 30, 2026 (immediately preceding CIST)
 
@@ -19,7 +35,7 @@ Participants will have the opportunity to:
 
 We welcome applications from all PhD students, although preference will be given to students in the dissertation phase of their PhD program (typically in their 4th or 5th year in the PhD program). Selection criteria include research novelty, diversity of research topics, and capacity.
 
-### Application Requirements
+### Application Requirements {#dc-requirements}
 
 Each applicant must submit one application that comprises the following four items, combined into one PDF file:
 
@@ -34,16 +50,27 @@ Applicants will be notified of decisions by **Tuesday, August 18, 2026**. There 
 
 Please contact Ling Xue at [ling.xue@uga.edu](mailto:ling.xue@uga.edu) with any questions.
 
-### Doctoral Consortium Co-Chairs
+### Doctoral Consortium Co-Chairs {#dc-chairs}
 
 - Martin Bichler, Technical University of Munich
 - Ting Li, Erasmus University Rotterdam
 - D.J. Wu, Georgia Institute of Technology
 - Ling Xue, University of Georgia
 
----
+</div>
 
-## Third INFORMS ISS Information Systems Research Paper Development Workshop for Early Career Scholars
+<div class="tab-panel" id="workshop" role="tabpanel">
+
+<nav class="tab-toc" aria-label="On this page">
+<strong>On this page</strong>
+<ul>
+<li><a href="#ws-overview">Overview</a></li>
+<li><a href="#ws-submit">How to Submit</a></li>
+<li><a href="#ws-mentors">Mentors</a></li>
+</ul>
+</nav>
+
+## Third INFORMS ISS Information Systems Research Paper Development Workshop for Early Career Scholars {#ws-overview}
 
 **Date:** Friday afternoon, October 30, 2026 (in conjunction with CIST 2026)
 
@@ -63,7 +90,7 @@ The selected papers will be mentored by at least two members of the ISR Editoria
 
 The length of the papers submitted to the workshop should not exceed 24 pages (double-spaced, 12 font) – this includes everything, including references. The first page (not counted in the 24 pages) must have the title of the paper, the name(s), affiliation(s), and email address(es) of all the author(s), and 3-5 keywords.
 
-### How to Submit
+### How to Submit {#ws-submit}
 
 Please send your paper as an attachment (word or pdf format) as per the following instructions:
 
@@ -75,7 +102,7 @@ Please include the title of the manuscript and the name of the author seeking to
 
 Submissions should be sent by email from **August 31 through September 7, 2026**. Papers submitted before August 31 and after September 7 (midnight Pacific Time) will not be considered. We will try to notify authors of the decisions by **September 25**.
 
-### Mentors
+### Mentors {#ws-mentors}
 
 We now have commitments from the following members of the ISR Editorial Board, with additional mentors expected to join as the program is finalized. What a group of mentors!
 
@@ -107,3 +134,41 @@ While this workshop is primarily intended for early-career scholars, we may make
 
 Suprateek Sarker<br>
 Editor-in-Chief, ISR
+
+</div>
+
+<script>
+(function () {
+  var btns = document.querySelectorAll('.tab-btn');
+  var panels = document.querySelectorAll('.tab-panel');
+  function activate(id) {
+    btns.forEach(function (b) {
+      var on = b.dataset.tab === id;
+      b.classList.toggle('active', on);
+      b.setAttribute('aria-selected', on ? 'true' : 'false');
+    });
+    panels.forEach(function (p) {
+      p.classList.toggle('active', p.id === id);
+    });
+  }
+  btns.forEach(function (b) {
+    b.addEventListener('click', function () {
+      activate(b.dataset.tab);
+      history.replaceState(null, '', '#' + b.dataset.tab);
+    });
+  });
+  function fromHash() {
+    var hash = decodeURIComponent(location.hash.slice(1));
+    if (!hash) return;
+    var el = document.getElementById(hash);
+    if (!el) return;
+    var panel = el.closest('.tab-panel');
+    if (panel) {
+      activate(panel.id);
+      if (el !== panel) el.scrollIntoView();
+    }
+  }
+  window.addEventListener('hashchange', fromHash);
+  fromHash();
+})();
+</script>
