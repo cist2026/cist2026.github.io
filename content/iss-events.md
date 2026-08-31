@@ -14,7 +14,7 @@ subtitle: "Workshops and events in conjunction with CIST 2026"
 <strong>On this page</strong>
 <ul>
 <li><a href="#dc-overview">Overview</a></li>
-<li><a href="#dc-requirements">Application Requirements</a></li>
+<li><a href="#dc-mentors">Doctoral Consortium Mentors</a></li>
 <li><a href="#dc-chairs">Doctoral Consortium Co-Chairs</a></li>
 </ul>
 </nav>
@@ -35,20 +35,34 @@ Participants will have the opportunity to:
 
 We welcome applications from all PhD students, although preference will be given to students in the dissertation phase of their PhD program (typically in their 4th or 5th year in the PhD program). Selection criteria include research novelty, diversity of research topics, and capacity.
 
-### Application Requirements {#dc-requirements}
-
-Each applicant must submit one application that comprises the following four items, combined into one PDF file:
-
-- Cover letter
-- Applicant CV
-- 5-page abstract of dissertation research
-- Nomination letter from advisor (no more than one nominee per advisor)
-
-To apply, please complete the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd8jLbjvx-zgtNr7FAfSVMYM4uWM5qi5k7g_eNcEHxYCev4Xg/viewform?usp=dialog) by **Tuesday, June 30, 2026 (11:59 p.m. Pacific Time)**.
-
-Applicants will be notified of decisions by **Tuesday, August 18, 2026**. There is no registration fee for this event.
+There is no registration fee for this event.
 
 Please contact Ling Xue at [ling.xue@uga.edu](mailto:ling.xue@uga.edu) with any questions.
+
+### Doctoral Consortium Mentors {#dc-mentors}
+
+- Rodrigo Belo, Nova School of Business and Economics
+- Hemant Bhargava, University of California, Davis
+- Martin Bichler, Technical University of Munich
+- Sue Brown, University of Arizona
+- Peiyu Chen, Arizona State University
+- Anindya Ghose, New York University
+- Bin Gu, Boston University
+- Alok Gupta, University of Minnesota
+- Hanna Halaburda, New York University
+- Kevin Hong, University of Miami
+- Yu (Jeffrey) Hu, Purdue University
+- Zhenghui (Jack) Jiang, The University of Hong Kong
+- Elena Karahanna, University of Georgia
+- Ting Li, Erasmus University Rotterdam
+- Xinxin Li, University of Connecticut
+- Mingfeng Lin, Georgia Institute of Technology
+- Olivia Sheng, Arizona State University
+- Daniel Sokol, University of Southern California
+- Arun Sundararajan, New York University
+- DJ Wu, Georgia Institute of Technology
+- Ling Xue, University of Georgia
+- Eric Zheng, The University of Texas at Dallas
 
 ### Doctoral Consortium Co-Chairs {#dc-chairs}
 
