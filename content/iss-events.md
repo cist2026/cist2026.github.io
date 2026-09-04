@@ -48,7 +48,6 @@ Please contact Ling Xue at [ling.xue@uga.edu](mailto:ling.xue@uga.edu) with any 
 - Peiyu Chen, Arizona State University
 - Anindya Ghose, New York University
 - Bin Gu, Boston University
-- Alok Gupta, University of Minnesota
 - Hanna Halaburda, New York University
 - Kevin Hong, University of Miami
 - Yu (Jeffrey) Hu, Purdue University
@@ -58,6 +57,7 @@ Please contact Ling Xue at [ling.xue@uga.edu](mailto:ling.xue@uga.edu) with any 
 - Xinxin Li, University of Connecticut
 - Mingfeng Lin, Georgia Institute of Technology
 - Olivia Sheng, Arizona State University
+- Param Vir Singh, Carnegie Mellon University
 - Daniel Sokol, University of Southern California
 - Arun Sundararajan, New York University
 - DJ Wu, Georgia Institute of Technology
