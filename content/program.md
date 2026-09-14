@@ -12,4 +12,6 @@ The conference program will be announced after paper acceptances are finalized.
 
 Check back for the detailed schedule closer to the conference date.
 
+Receptions hosted by schools and departments during the conference are listed on the [Receptions](/receptions/) page.
+
 <!-- TODO: Add digital program link (e.g., Vercel app) when available -->

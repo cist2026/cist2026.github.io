@@ -32,13 +32,17 @@ title = "CIST 2026"
     url = "/iss-events/"
     weight = 5
   [[menu.main]]
+    name = "Receptions"
+    url = "/receptions/"
+    weight = 6
+  [[menu.main]]
     name = "Transportation"
     url = "/transportation/"
-    weight = 6
+    weight = 7
   [[menu.main]]
     name = "Committee"
     url = "/committee/"
-    weight = 7
+    weight = 8
 
 [markup]
   [markup.goldmark]
