@@ -16,10 +16,6 @@ title = "CIST 2026"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Call for Papers"
-    url = "/cfp/"
-    weight = 2
-  [[menu.main]]
     name = "Program"
     url = "/program/"
     weight = 3
