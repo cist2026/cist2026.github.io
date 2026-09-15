@@ -7,7 +7,7 @@ The receptions listed below are hosted by individual schools and departments dur
 
 This list will be updated as additional receptions are confirmed.
 
-## HKUST ISOM Department Reception
+## HKUST ISOM Department Reception (By Invitation Only)
 
 Hosted by the Department of Information Systems, Business Statistics and Operations Management (ISOM), Hong Kong University of Science and Technology.
 
