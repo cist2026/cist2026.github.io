@@ -45,10 +45,10 @@ Please contact Ling Xue at [ling.xue@uga.edu](mailto:ling.xue@uga.edu) with any 
 - Hemant Bhargava, University of California, Davis
 - Martin Bichler, Technical University of Munich
 - Sue Brown, University of Arizona
+- Jianqing Chen, University of Texas at Dallas
 - Peiyu Chen, Arizona State University
 - Anindya Ghose, New York University
 - Bin Gu, Boston University
-- Hanna Halaburda, New York University
 - Kevin Hong, University of Miami
 - Yu (Jeffrey) Hu, Purdue University
 - Zhenghui (Jack) Jiang, The University of Hong Kong
