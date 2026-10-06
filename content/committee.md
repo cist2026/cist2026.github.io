@@ -15,7 +15,7 @@ subtitle: "CIST 2026 Organizing Committee"
 <div class="committee-member">
   <div class="member-photo"><img src="/images/committee/sarah-bana.jpg" alt="Sarah Bana"></div>
   <h3>Sarah Bana</h3>
-  <p class="affiliation">Chapman University</p>
+  <p class="affiliation">London School of Economics and Political Science</p>
   <p class="email"><a href="mailto:sarah.bana@gmail.com">sarah.bana@gmail.com</a></p>
 </div>
 
