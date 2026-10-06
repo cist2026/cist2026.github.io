@@ -13,7 +13,7 @@ Hosted by the Department of Information Systems, Business Statistics and Operati
 
 **Date:** Sunday, November 1, 2026
 
-**Time:** 7:30 PM – 10:00 PM
+**Time:** 7:30 PM – 9:30 PM
 
 **Location:** Golden Gate 7–8, Hilton San Francisco Union Square (the conference hotel)
 
