@@ -3,14 +3,12 @@ title: "Program"
 subtitle: "Conference schedule and sessions"
 ---
 
-The conference program will be announced after paper acceptances are finalized.
+[**CIST2026_Program_Print.pdf**](https://drive.google.com/file/d/17ukQhTcf-DsqkDSmwM4Wi2okXUnZeUgS/view?usp=sharing)
 
 **Conference format:**
 
 - Full presentations: ~18 minutes each, including Q&A
 - Short presentations: ~8 minutes each, including Q&A
-
-Check back for the detailed schedule closer to the conference date.
 
 Receptions hosted by schools and departments during the conference are listed on the [Receptions](/receptions/) page.
 
