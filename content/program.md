@@ -7,8 +7,8 @@ The conference program will be announced after paper acceptances are finalized.
 
 **Conference format:**
 
-- Full presentations: ~18–19 minutes each, including Q&A
-- Short presentations: ~10 minutes each, including Q&A
+- Full presentations: ~18 minutes each, including Q&A
+- Short presentations: ~8 minutes each, including Q&A
 
 Check back for the detailed schedule closer to the conference date.
 
