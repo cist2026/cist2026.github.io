@@ -12,7 +12,7 @@ Conference format:
 
 - Full presentations: ~18 minutes each, including Q&A
 - Short presentations: ~8 minutes each, including Q&A
-- Session chairs: The presenter of each session's 2nd paper is the session chair
+- Session chairs: The presenter of each session's 2nd paper is the session chair. **Please bring your laptop and necessary accessories (e.g., USB and HDMI adapters).**
 
 In our continued effort to promote sustainability, printed programs will not be provided on-site.
 
